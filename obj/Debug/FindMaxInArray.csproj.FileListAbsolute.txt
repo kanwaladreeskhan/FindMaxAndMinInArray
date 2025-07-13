@@ -1,0 +1,7 @@
+C:\Users\FC Technologies\Documents\Visual Studio 2022\FindMaxInArray\FindMaxInArray\bin\Debug\FindMaxInArray.exe.config
+C:\Users\FC Technologies\Documents\Visual Studio 2022\FindMaxInArray\FindMaxInArray\bin\Debug\FindMaxInArray.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\FindMaxInArray\FindMaxInArray\bin\Debug\FindMaxInArray.pdb
+C:\Users\FC Technologies\Documents\Visual Studio 2022\FindMaxInArray\FindMaxInArray\obj\Debug\FindMaxInArray.csproj.AssemblyReference.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\FindMaxInArray\FindMaxInArray\obj\Debug\FindMaxInArray.csproj.CoreCompileInputs.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\FindMaxInArray\FindMaxInArray\obj\Debug\FindMaxInArray.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\FindMaxInArray\FindMaxInArray\obj\Debug\FindMaxInArray.pdb
